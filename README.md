@@ -64,3 +64,7 @@ Potential enhancements could include:
 - numpy
 - matplotlib
 - NLTK
+
+## References
+
+- [IMDB Dataset on Kaggle](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
